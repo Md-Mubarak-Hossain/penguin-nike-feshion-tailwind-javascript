@@ -66,61 +66,61 @@ document.getElementById('buy-9').addEventListener('click', function () {
 
 })
 document.getElementById('buy-10').addEventListener('click', function () {
-    const perProductPrice = buyNow('buy-11')
+    const perProductPrice = buyNow('buy-110')
     const textField = document.getElementById('text1-field');
     textField.value = perProductPrice;
 
 })
 document.getElementById('buy-11').addEventListener('click', function () {
-    const perProductPrice = buyNow('buy-11')
+    const perProductPrice = buyNow('buy-111')
     const textField = document.getElementById('text1-field');
     textField.value = perProductPrice;
 
 })
 document.getElementById('buy-12').addEventListener('click', function () {
-    const perProductPrice = buyNow('buy-11')
+    const perProductPrice = buyNow('buy-112')
     const textField = document.getElementById('text1-field');
     textField.value = perProductPrice;
 
 })
 document.getElementById('buy-13').addEventListener('click', function () {
-    const perProductPrice = buyNow('buy-11')
+    const perProductPrice = buyNow('buy-113')
     const textField = document.getElementById('text1-field');
     textField.value = perProductPrice;
 
 })
 document.getElementById('buy-14').addEventListener('click', function () {
-    const perProductPrice = buyNow('buy-11')
+    const perProductPrice = buyNow('buy-114')
     const textField = document.getElementById('text1-field');
     textField.value = perProductPrice;
 
 })
 document.getElementById('buy-15').addEventListener('click', function () {
-    const perProductPrice = buyNow('buy-11')
+    const perProductPrice = buyNow('buy-115')
     const textField = document.getElementById('text1-field');
     textField.value = perProductPrice;
 
 })
 document.getElementById('buy-16').addEventListener('click', function () {
-    const perProductPrice = buyNow('buy-11')
+    const perProductPrice = buyNow('buy-116')
     const textField = document.getElementById('text1-field');
     textField.value = perProductPrice;
 
 })
 document.getElementById('buy-17').addEventListener('click', function () {
-    const perProductPrice = buyNow('buy-11')
+    const perProductPrice = buyNow('buy-117')
     const textField = document.getElementById('text1-field');
     textField.value = perProductPrice;
 
 })
 document.getElementById('buy-18').addEventListener('click', function () {
-    const perProductPrice = buyNow('buy-11')
+    const perProductPrice = buyNow('buy-118')
     const textField = document.getElementById('text1-field');
     textField.value = perProductPrice;
 
 })
 document.getElementById('buy-19').addEventListener('click', function () {
-    const perProductPrice = buyNow('buy-11')
+    const perProductPrice = buyNow('buy-119')
     const textField = document.getElementById('text1-field');
     textField.value = perProductPrice;
 
