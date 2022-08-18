@@ -1,4 +1,4 @@
-
+const login = document.getElementById('login-field');
 document.getElementById('login-page').addEventListener('click', function () {
     // console.log('buy- page');
     // window.location.href = 'buy.html';
@@ -6,7 +6,8 @@ document.getElementById('login-page').addEventListener('click', function () {
     const pass = document.getElementById('password-field');
 
     if (email.value === 'mubarak@dev.com' && pass.value === 'secret123') {
-        window.location.href = 'buy.html';
+        window.location.href = 'calculation.html';
+
     }
     else if (email.value === 'mubarak@dev.com' || pass.value === 'secret123') {
         // window.location.href = 'buy.html';

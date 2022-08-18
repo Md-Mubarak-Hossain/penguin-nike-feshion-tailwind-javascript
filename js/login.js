@@ -80,7 +80,3 @@ document.getElementById('login').addEventListener('click', function () {
     // console.log('login');
 })
 
-// location.replace("http://example.com");
-// location.href = "http://example.com"
-// window.location = "http://example.com"
-// window.location.href = "http://example.com"
